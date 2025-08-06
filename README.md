@@ -54,3 +54,9 @@ src/
 ├── index.js
 ├── App.css / Tailwind config
 ```
+### clone
+```
+git clone https://github.com/athul457/clinic-app.git
+cd clinic-app/frontend
+```
+
